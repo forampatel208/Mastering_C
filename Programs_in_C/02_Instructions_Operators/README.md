@@ -1,0 +1,5 @@
+  - `arithmetic_operators.c`: Examples of arithmetic operations.
+  - `relational_operators.c`: Demonstrations of relational operators.
+  - `logical_operators.c`: Examples of logical operators and their usage.
+  - `bitwise_operators.c`: Introduction to bitwise operators.
+  - `assignment_operators.c`: Using assignment operators with examples.

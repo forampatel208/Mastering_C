@@ -1,0 +1,4 @@
+  - `array_basics.c`: Initializing and using arrays.
+  - `multi_dimensional_arrays.c`: 2D arrays example.
+  - `array_manipulation.c`: Basic array operations (e.g., finding the max element).
+  - `sorting_arrays.c`: Simple sorting algorithms (like bubble sort).

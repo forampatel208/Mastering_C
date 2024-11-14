@@ -1,0 +1,4 @@
+  - `malloc_free.c`: Using `malloc` and `free` for dynamic memory allocation.
+  - `calloc_realloc.c`: Demonstrating `calloc` and `realloc`.
+  - `dynamic_arrays.c`: Creating dynamic arrays.
+  - `struct_with_dynamic_memory.c`: Using dynamic memory with structures.

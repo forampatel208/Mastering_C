@@ -1,0 +1,4 @@
+  - `for_loop.c`: Examples of `for` loops.
+  - `while_loop.c`: Basic `while` loop program.
+  - `do_while_loop.c`: Examples using `do...while` loops.
+  - `nested_loops.c`: Illustrations of nested loops and patterns.

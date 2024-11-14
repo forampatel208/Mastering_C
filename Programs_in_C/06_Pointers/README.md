@@ -1,0 +1,4 @@
+  - `pointer_basics.c`: Basic pointer operations.
+  - `pointer_arithmetic.c`: Illustrates pointer arithmetic.
+  - `pointers_and_arrays.c`: Using pointers with arrays.
+  - `pointers_and_functions.c`: Passing pointers to functions.

@@ -1,0 +1,4 @@
+  - `basic_functions.c`: Defining and using functions.
+  - `function_parameters.c`: Passing parameters by value and by reference.
+  - `recursion_example.c`: Simple recursion example (e.g., factorial).
+  - `scope_of_variables.c`: Understanding variable scope within functions.
