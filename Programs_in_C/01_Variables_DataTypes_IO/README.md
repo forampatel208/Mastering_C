@@ -36,3 +36,4 @@ This folder covers the foundational aspects of C programming, such as variables,
 2. Compile the program using:
    ```bash
    gcc program_name.c -o program_name
+   ```

@@ -37,3 +37,4 @@ This folder delves into one of the most powerful features of C: **Pointers**. It
 2. Compile the program using:
    ```bash
    gcc program_name.c -o program_name
+   ```

@@ -37,3 +37,4 @@ This folder demonstrates the different loop control statements in C, including `
 2. Compile the program using:
    ```bash
    gcc program_name.c -o program_name
+   ```

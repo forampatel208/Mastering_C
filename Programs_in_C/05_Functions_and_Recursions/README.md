@@ -37,3 +37,4 @@ This folder covers key concepts of functions in C, including defining and using 
 2. Compile the program using:
    ```bash
    gcc program_name.c -o program_name
+   ```

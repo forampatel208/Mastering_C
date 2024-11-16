@@ -34,3 +34,4 @@ This folder focuses on **Conditional Statements**, a crucial part of programming
 2. Compile the program using the following command:  
    ```bash
      gcc program_name.c -o program_name```
+      ```

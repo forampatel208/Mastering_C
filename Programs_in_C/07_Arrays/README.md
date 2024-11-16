@@ -36,3 +36,4 @@ This folder focuses on arrays, one of the most fundamental data structures in C 
 2. Compile the program using:
    ```bash
    gcc program_name.c -o program_name
+   ```

@@ -44,5 +44,3 @@ This folder dives into the world of **Operators in C**, which are essential tool
    ```bash
    ./program_name
    ```  
-
----
