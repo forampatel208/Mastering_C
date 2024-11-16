@@ -33,5 +33,5 @@ This folder focuses on **Conditional Statements**, a crucial part of programming
 1. Open a terminal or IDE supporting C programming (like GCC, Visual Studio Code, or Code::Blocks).  
 2. Compile the program using the following command:  
    ```bash
-     gcc program_name.c -o program_name```
+     gcc program_name.c -o program_name
       ```
