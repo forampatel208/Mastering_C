@@ -14,15 +14,15 @@ This folder dives into the world of **Operators in C**, which are essential tool
 ---
 
 ## 📂 **Programs Included**
- _____________________________________________________________________________________________
-| Program Name           | Description                                                       |
-|------------------------|-------------------------------------------------------------------|
-| `arithmetic_operators.c` | Demonstrates basic arithmetic operations like `+`, `-`, `*`, `/`, `%`. |
+ _______________________________________________________________________________________________________
+| Program Name           | Description                                                                  |
+|------------------------|------------------------------------------------------------------------------|
+| `arithmetic_operators.c` | Demonstrates basic arithmetic operations like `+`, `-`, `*`, `/`, `%`.     |
 | `relational_operators.c` | Examples of relational comparisons using `==`, `!=`, `>`, `<`, `>=`, `<=`. |
-| `logical_operators.c`    | Shows logical operations using `&&`, `||`, and `!`.              |
-| `bitwise_operators.c`    | Introduces bit-level operations like `&`, `|`, `^`, `~`, `<<`, `>>`. |
-| `assignment_operators.c` | Explains shorthand operators like `+=`, `-=`, `*=`, `/=`, `%=`.  |
------------------------------------------------------------------------------------------------
+| `logical_operators.c`    | Shows logical operations using `&&`, `||`, and `!`.                        |
+| `bitwise_operators.c`    | Introduces bit-level operations like `&`, `|`, `^`, `~`, `<<`, `>>`.       |
+| `assignment_operators.c` | Explains shorthand operators like `+=`, `-=`, `*=`, `/=`, `%=`.            |
+---------------------------------------------------------------------------------------------------------
 
 ---
 

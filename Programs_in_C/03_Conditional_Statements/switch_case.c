@@ -22,12 +22,15 @@ int main() {
         case 1: // If choice is 1
             printf("Hello!\n"); // Print "Hello"
             break; // Exit the switch block
+
         case 2: // If choice is 2
             printf("Welcome!\n"); // Print "Welcome"
             break; // Exit the switch block
+
         case 3: // If choice is 3
             printf("Goodbye!\n"); // Print "Goodbye"
             break; // Exit the switch block
+            
         default: // If the choice does not match any case
             printf("Invalid choice. Please select between 1 and 3.\n"); // Inform the user of invalid input
     }
