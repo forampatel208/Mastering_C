@@ -61,13 +61,13 @@ Below is the list of questions along with the filenames where you can find the s
 3. Run the program:
 ```./program_name```
 
-##📖 Learning Path
+## 📖 Learning Path
 - Beginner: Start with basic problems like sum of digits, Armstrong number, and GCD.
 - Intermediate: Move on to more complex problems like sorting, string manipulation, and dynamic memory allocation.
 - Advanced: Implement data structures (linked lists, stacks, queues) and advanced algorithms.
 By following this path, you will progressively build your problem-solving skills and deepen your understanding of C programming concepts.
 
-##🤖 Stay Consistent
+## 🤖 Stay Consistent
 Regular practice is the key to mastering any programming language. Keep coding, keep improving, and don't hesitate to revisit problems you find difficult. You'll see steady progress with each problem you solve.
 
 Good luck and happy coding! 🚀
