@@ -1,5 +1,5 @@
 # Operators in C
-
+---
 ## 🚀 Topics Covered
 
 ### Arithmetic Operators
