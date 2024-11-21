@@ -1,9 +1,5 @@
 # Operators in C
 
-This folder dives into the world of **Operators in C**, essential tools for performing operations on data and controlling the flow of a program. Mastering these concepts will empower you to write effective, efficient, and optimized C code.
-
----
-
 ## 🚀 Topics Covered
 
 ### Arithmetic Operators
