@@ -16,38 +16,12 @@ This folder delves into **Strings**, an essential part of text processing in C p
 
 2. **Standard String Functions**  
    - Using standard library functions to manipulate strings, such as `strlen`, `strcpy`, `strcmp`, and more.  
-   - Example:  
-     ```c
-     int len = strlen(name); // Returns length of the string excluding '\0'
-     ```
 
 3. **Palindrome Check**  
    - Checking whether a string is a palindrome (reads the same backward and forward).  
-   - Example:  
-     ```c
-     bool isPalindrome(char str[]) {
-         int start = 0;
-         int end = strlen(str) - 1;
-         while (start < end) {
-             if (str[start] != str[end]) {
-                 return false;
-             }
-             start++;
-             end--;
-         }
-         return true;
-     }
-     ```
-
+   
 4. **String Concatenation**  
    - Combining two strings into one.  
-   - Example:  
-     ```c
-     char str1[20] = "Hello ";
-     char str2[] = "World!";
-     strcat(str1, str2); // Concatenates str2 to str1
-     printf("%s", str1); // Outputs: Hello World!
-     ```
 
 ---
 
