@@ -1,5 +1,8 @@
 # Operators in C
+
+This folder dives into the world of **Operators in C**, essential tools for performing operations on data and controlling the flow of a program.
 ---
+
 ## 🚀 Topics Covered
 
 ### Arithmetic Operators
@@ -110,4 +113,5 @@ In C, operators are evaluated based on their precedence and associativity. Here 
 ---
 
 ## 📖 Additional Resources
+
 - [Operator Precedence in C (GeeksforGeeks)](https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-c/)
