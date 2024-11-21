@@ -12,7 +12,9 @@ This folder focuses on **Conditional Statements**, a crucial part of programming
 
 2. **Switch-Case Statements**  
    - Handles multiple predefined cases efficiently with cleaner syntax.  
-   - Useful for scenarios like menu-driven programs.  
+   - Useful for scenarios like menu-driven programs.
+   - Ternary
+        ```Condition ? doSomething if TRUE : doSomething if FALSE```
 
 3. **Nested Conditions**  
    - Executes conditions hierarchically.  
