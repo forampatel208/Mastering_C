@@ -21,12 +21,12 @@ Below is the list of questions along with the filenames where you can find the s
 
 | **Program Name**                 | **Description**                                                                 |
 |----------------------------------|---------------------------------------------------------------------------------|
-| `sum_of_digits.c`                | Find the sum of digits of a given number.                                        |
-| `armstrong_number.c`             | Check if a number is an Armstrong number.                                        |
-| `gcd_of_two_numbers.c`           | Find the GCD of two numbers using the Euclidean algorithm.                       |
-| `decimal_to_binary.c`            | Convert a decimal number to binary.                                              |
+| `sum_of_digits.c`                | Find the sum of digits of a given number.                                       |
+| `armstrong_number.c`             | Check if a number is an Armstrong number.                                       |
+| `gcd_of_two_numbers.c`           | Find the GCD of two numbers using the Euclidean algorithm.                      |
+| `decimal_to_binary.c`            | Convert a decimal number to binary.                                             |
 | `multiplication_table.c`         | Print the multiplication table of a given number.                               |
-| `swap_two_numbers.c`             | Swap two numbers using both a temporary variable and without using one.        |
+| `swap_two_numbers.c`             | Swap two numbers using both a temporary variable and without using one.         |
 | `string_length.c`                | Find the length of a string without using `strlen`.                             |
 | `count_words_in_string.c`        | Count the number of words in a string.                                          |
 | `matrix_transpose.c`             | Find the transpose of a matrix (swap rows and columns).                         |
@@ -36,11 +36,11 @@ Below is the list of questions along with the filenames where you can find the s
 | `perfect_number_check.c`         | Check if a number is a perfect number (sum of divisors equals the number).      |
 | `linked_list_insert_delete.c`    | Implement a linked list with insert and delete operations.                      |
 | `dynamic_array.c`                | Implement a dynamic array that can grow during runtime.                         |
-| `file_copy.c`                    | Copy the contents of one file to another.                                      |
+| `file_copy.c`                    | Copy the contents of one file to another.                                       |
 | `stack_using_array.c`            | Implement a stack using an array with push, pop, and display operations.        |
 | `queue_using_linked_list.c`      | Implement a queue using a linked list with enqueue, dequeue, and display.       |
-| `bubble_sort.c`                  | Implement the bubble sort algorithm to sort an array in ascending order.       |
-| `middle_of_linked_list.c`        | Find the middle element of a singly linked list.                               |
+| `bubble_sort.c`                  | Implement the bubble sort algorithm to sort an array in ascending order.        |
+| `middle_of_linked_list.c`        | Find the middle element of a singly linked list.                                |
 
 ---
 
