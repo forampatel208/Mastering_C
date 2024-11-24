@@ -1,0 +1,1 @@
+// Implement a stack using an array with push, pop, and display operations.

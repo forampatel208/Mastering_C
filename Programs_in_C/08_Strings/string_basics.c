@@ -13,8 +13,9 @@ int main() {
     printf("Length of str1: %lu\n", strlen(str1));
 
     // Copying one string into another
-    strcpy(str2, str1);
+    strcpy(str2, str1); // str1 is copied into str2, str1 remains unchanged
     printf("After strcpy, str2: %s\n", str2);
+    printf("After strcpy, str1: %s\n", str1);
 
     // Comparing two strings
     int result = strcmp(str1, str2);

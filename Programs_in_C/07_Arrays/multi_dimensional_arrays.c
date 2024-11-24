@@ -9,7 +9,7 @@ int main() {
     int matrix[2][3] = {
         {1, 2, 3},
         {4, 5, 6} 
-    }; //
+    }; 
 
     // Printing the 2D array
     printf("2D Array Elements:\n");
