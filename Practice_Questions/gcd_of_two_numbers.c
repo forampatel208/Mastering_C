@@ -8,7 +8,7 @@ int main() {
     printf("Enter value of b: ");
     scanf("%d", &b);
 
-    for (int i=1; i <= a && i <= b; ++i) //start loop with 1 since a%0 is not defined
+    for (int i=1; i <= a && i <= b; ++i) //starting the loop with 1, since a%0 is not defined
     {
         //check if 'i' is factor of both integers
         if (a%i == 0 && b%i == 0)

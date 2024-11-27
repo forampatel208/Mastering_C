@@ -26,8 +26,8 @@ void mergeSortedArrays(int arr1[], int n1, int arr2[], int n2, int result[]) {
 }
 
 int main() {
-    int arr1[] = {1, 3, 5, 7}; // First sorted array
-    int arr2[] = {2, 4, 6, 8}; // Second sorted array
+    int arr1[] = {1, 3, 5, 7}; 
+    int arr2[] = {2, 4, 6, 8}; 
 
     int n1 = sizeof(arr1) / sizeof(arr1[0]);
     int n2 = sizeof(arr2) / sizeof(arr2[0]);

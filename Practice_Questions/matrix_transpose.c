@@ -1,4 +1,4 @@
-// Find the transpose of a matrix (swap rows and columns).  
+// Find the transpose of a matrix (swap rows and columns).
 #include <stdio.h>
 
 void findTranspose(int rows, int cols, int matrix[rows][cols], int transpose[cols][rows]) {
@@ -23,7 +23,7 @@ int main() {
     printf("Enter the elements of the matrix:\n");
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
-            scanf("%d", &matrix[i][j]);
+            scanf("%d", &matrix[i][j]); //values will be filled in the order 00, 01, 02, .. 10, 11, 12,...,
         }
     }
 
